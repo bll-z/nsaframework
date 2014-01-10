@@ -1,0 +1,494 @@
+2013-12-10 10:06:44,625 [Thread-4] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/cas]- Initializing log4j from [classpath:log4j.xml]
+2013-12-10 10:06:44,654 [Thread-4] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/cas]- Initializing Spring root WebApplicationContext
+2013-12-10 10:06:45,429 [Thread-4] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/cas]- Initializing Spring FrameworkServlet 'cas'
+2013-12-10 10:06:48,403 [Thread-7] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/owf]- Initializing Spring root WebApplicationContext
+2013-12-10 10:06:58,288 [Thread-7] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/owf]- Initializing Spring FrameworkServlet 'grails'
+2013-12-10 10:08:33,347 [http-bio-8443-exec-4] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/owf]- Initializing Spring FrameworkServlet 'gsp'
+2013-12-10 10:08:33,347 [http-bio-8443-exec-4] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/owf]- GSP servlet initialized
+2013-12-10 12:22:01,067 [stop children - Catalina:j2eeType=WebModule,name=//localhost/cas,J2EEApplication=none,J2EEServer=none] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/cas]- Closing Spring root WebApplicationContext
+2013-12-10 12:22:01,069 [stop children - Catalina:j2eeType=WebModule,name=//localhost/cas,J2EEApplication=none,J2EEServer=none] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/cas]- Shutting down log4j
+2013-12-10 12:22:01,110 [stop children - Catalina:j2eeType=WebModule,name=//localhost/owf,J2EEApplication=none,J2EEServer=none] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/owf]- Destroying Spring FrameworkServlet 'grails'
+2013-12-10 12:22:01,179 [stop children - Catalina:j2eeType=WebModule,name=//localhost/owf,J2EEApplication=none,J2EEServer=none] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/owf]- Destroying Spring FrameworkServlet 'gsp'
+2013-12-10 12:22:01,251 [stop children - Catalina:j2eeType=WebModule,name=//localhost/owf,J2EEApplication=none,J2EEServer=none] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/owf]- Closing Spring root WebApplicationContext
+2013-12-10 13:30:59,180 [Thread-4] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/cas]- Initializing log4j from [classpath:log4j.xml]
+2013-12-10 13:30:59,216 [Thread-4] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/cas]- Initializing Spring root WebApplicationContext
+2013-12-10 13:31:00,056 [Thread-4] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/cas]- Initializing Spring FrameworkServlet 'cas'
+2013-12-10 13:31:01,615 [Thread-6] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/owf]- Initializing Spring root WebApplicationContext
+2013-12-10 13:31:09,330 [Thread-6] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/owf]- Initializing Spring FrameworkServlet 'grails'
+2013-12-10 13:31:16,583 [Thread-4] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/cas]- Initializing log4j from [classpath:log4j.xml]
+2013-12-10 13:31:16,607 [Thread-4] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/cas]- Initializing Spring root WebApplicationContext
+2013-12-10 13:31:17,329 [Thread-4] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/cas]- Initializing Spring FrameworkServlet 'cas'
+2013-12-10 13:31:18,739 [Thread-5] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/owf]- Initializing Spring root WebApplicationContext
+2013-12-10 13:31:26,045 [Thread-5] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/owf]- Initializing Spring FrameworkServlet 'grails'
+2013-12-10 13:31:26,061 [stop children - Catalina:j2eeType=WebModule,name=//localhost/cas,J2EEApplication=none,J2EEServer=none] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/cas]- Closing Spring root WebApplicationContext
+2013-12-10 13:31:26,062 [stop children - Catalina:j2eeType=WebModule,name=//localhost/cas,J2EEApplication=none,J2EEServer=none] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/cas]- Shutting down log4j
+2013-12-10 13:31:26,082 [stop children - Catalina:j2eeType=WebModule,name=//localhost/owf,J2EEApplication=none,J2EEServer=none] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/owf]- Destroying Spring FrameworkServlet 'grails'
+2013-12-10 13:31:26,239 [stop children - Catalina:j2eeType=WebModule,name=//localhost/owf,J2EEApplication=none,J2EEServer=none] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/owf]- Closing Spring root WebApplicationContext
+2013-12-10 13:31:57,311 [Thread-4] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/cas]- Initializing log4j from [classpath:log4j.xml]
+2013-12-10 13:31:57,337 [Thread-4] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/cas]- Initializing Spring root WebApplicationContext
+2013-12-10 13:31:58,120 [Thread-4] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/cas]- Initializing Spring FrameworkServlet 'cas'
+2013-12-10 13:31:59,497 [Thread-6] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/owf]- Initializing Spring root WebApplicationContext
+2013-12-10 13:32:06,609 [Thread-6] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/owf]- Initializing Spring FrameworkServlet 'grails'
+2013-12-10 13:32:06,626 [stop children - Catalina:j2eeType=WebModule,name=//localhost/cas,J2EEApplication=none,J2EEServer=none] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/cas]- Closing Spring root WebApplicationContext
+2013-12-10 13:32:06,627 [stop children - Catalina:j2eeType=WebModule,name=//localhost/cas,J2EEApplication=none,J2EEServer=none] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/cas]- Shutting down log4j
+2013-12-10 13:32:06,644 [stop children - Catalina:j2eeType=WebModule,name=//localhost/owf,J2EEApplication=none,J2EEServer=none] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/owf]- Destroying Spring FrameworkServlet 'grails'
+2013-12-10 13:32:06,818 [stop children - Catalina:j2eeType=WebModule,name=//localhost/owf,J2EEApplication=none,J2EEServer=none] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/owf]- Closing Spring root WebApplicationContext
+2013-12-10 13:33:29,670 [http-bio-8443-exec-3] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/owf]- Initializing Spring FrameworkServlet 'gsp'
+2013-12-10 13:33:29,670 [http-bio-8443-exec-3] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/owf]- GSP servlet initialized
+2013-12-10 17:13:26,466 [stop children - Catalina:j2eeType=WebModule,name=//localhost/cas,J2EEApplication=none,J2EEServer=none] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/cas]- Closing Spring root WebApplicationContext
+2013-12-10 17:13:26,468 [stop children - Catalina:j2eeType=WebModule,name=//localhost/cas,J2EEApplication=none,J2EEServer=none] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/cas]- Shutting down log4j
+2013-12-10 17:13:26,568 [stop children - Catalina:j2eeType=WebModule,name=//localhost/owf,J2EEApplication=none,J2EEServer=none] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/owf]- Destroying Spring FrameworkServlet 'grails'
+2013-12-10 17:13:26,610 [stop children - Catalina:j2eeType=WebModule,name=//localhost/owf,J2EEApplication=none,J2EEServer=none] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/owf]- Destroying Spring FrameworkServlet 'gsp'
+2013-12-10 17:13:26,696 [stop children - Catalina:j2eeType=WebModule,name=//localhost/owf,J2EEApplication=none,J2EEServer=none] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/owf]- Closing Spring root WebApplicationContext
+2013-12-17 11:33:02,544 [Thread-6] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/cas]- Initializing log4j from [classpath:log4j.xml]
+2013-12-17 11:33:02,581 [Thread-6] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/cas]- Initializing Spring root WebApplicationContext
+2013-12-17 11:33:03,490 [Thread-6] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/cas]- Initializing Spring FrameworkServlet 'cas'
+2013-12-17 11:33:05,265 [Thread-11] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/owf]- Initializing Spring root WebApplicationContext
+2013-12-17 11:33:13,502 [Thread-11] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/owf]- Initializing Spring FrameworkServlet 'grails'
+2013-12-17 11:34:42,811 [http-bio-8443-exec-9] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/owf]- Initializing Spring FrameworkServlet 'gsp'
+2013-12-17 11:34:42,811 [http-bio-8443-exec-9] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/owf]- GSP servlet initialized
+2013-12-18 15:25:50,611 [stop children - Catalina:j2eeType=WebModule,name=//localhost/cas,J2EEApplication=none,J2EEServer=none] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/cas]- Closing Spring root WebApplicationContext
+2013-12-18 15:25:50,613 [stop children - Catalina:j2eeType=WebModule,name=//localhost/cas,J2EEApplication=none,J2EEServer=none] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/cas]- Shutting down log4j
+2013-12-18 15:25:50,683 [stop children - Catalina:j2eeType=WebModule,name=//localhost/owf,J2EEApplication=none,J2EEServer=none] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/owf]- Destroying Spring FrameworkServlet 'grails'
+2013-12-18 15:25:50,802 [stop children - Catalina:j2eeType=WebModule,name=//localhost/owf,J2EEApplication=none,J2EEServer=none] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/owf]- Destroying Spring FrameworkServlet 'gsp'
+2013-12-18 15:25:50,886 [stop children - Catalina:j2eeType=WebModule,name=//localhost/owf,J2EEApplication=none,J2EEServer=none] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/owf]- Closing Spring root WebApplicationContext
+2013-12-19 15:23:28,696 [Thread-6] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/cas]- Initializing log4j from [classpath:log4j.xml]
+2013-12-19 15:23:28,734 [Thread-6] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/cas]- Initializing Spring root WebApplicationContext
+2013-12-19 15:23:29,628 [Thread-6] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/cas]- Initializing Spring FrameworkServlet 'cas'
+2013-12-19 15:23:31,346 [Thread-11] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/owf]- Initializing Spring root WebApplicationContext
+2013-12-19 15:23:39,288 [Thread-11] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/owf]- Initializing Spring FrameworkServlet 'grails'
+2013-12-19 16:23:47,955 [http-bio-8443-exec-46] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/owf]- Initializing Spring FrameworkServlet 'gsp'
+2013-12-19 16:23:47,955 [http-bio-8443-exec-46] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/owf]- GSP servlet initialized
+2013-12-19 16:24:14,120 [http-bio-8443-exec-50] ERROR org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/announcing-clock].[jsp]- Servlet.service() for servlet [jsp] in context with path [/announcing-clock] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: 10 in the jsp file: /AnnouncingClock.jsp
+Syntax error on token "=", @ expected
+7:         <script type="text/javascript" src="../webapp/static/js/jquery-1.8.2.min.js"></script>
+8:         <script type="text/javascript" src="../webapp/static/js/raphael-2.1.0.min.js"></script>
+9:         <script type="text/javascript" src="../webapp/static/js/morris/morris.js"></script>        
+10:         <link rel="stylesheet" href="<% =owfContextPath %>/static/js/morris/morris.css">
+11:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/jquery-1.8.2.min.js"></script>
+12:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/raphael-2.1.0.min.js"></script>
+13:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/morris/morris.js"></script>
+
+
+An error occurred at line: 10 in the jsp file: /AnnouncingClock.jsp
+Syntax error on token(s), misplaced construct(s)
+7:         <script type="text/javascript" src="../webapp/static/js/jquery-1.8.2.min.js"></script>
+8:         <script type="text/javascript" src="../webapp/static/js/raphael-2.1.0.min.js"></script>
+9:         <script type="text/javascript" src="../webapp/static/js/morris/morris.js"></script>        
+10:         <link rel="stylesheet" href="<% =owfContextPath %>/static/js/morris/morris.css">
+11:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/jquery-1.8.2.min.js"></script>
+12:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/raphael-2.1.0.min.js"></script>
+13:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/morris/morris.js"></script>
+
+
+An error occurred at line: 11 in the jsp file: /AnnouncingClock.jsp
+Syntax error on token "=", @ expected
+8:         <script type="text/javascript" src="../webapp/static/js/raphael-2.1.0.min.js"></script>
+9:         <script type="text/javascript" src="../webapp/static/js/morris/morris.js"></script>        
+10:         <link rel="stylesheet" href="<% =owfContextPath %>/static/js/morris/morris.css">
+11:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/jquery-1.8.2.min.js"></script>
+12:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/raphael-2.1.0.min.js"></script>
+13:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/morris/morris.js"></script>
+14:     </head>
+
+
+An error occurred at line: 11 in the jsp file: /AnnouncingClock.jsp
+Syntax error on token(s), misplaced construct(s)
+8:         <script type="text/javascript" src="../webapp/static/js/raphael-2.1.0.min.js"></script>
+9:         <script type="text/javascript" src="../webapp/static/js/morris/morris.js"></script>        
+10:         <link rel="stylesheet" href="<% =owfContextPath %>/static/js/morris/morris.css">
+11:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/jquery-1.8.2.min.js"></script>
+12:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/raphael-2.1.0.min.js"></script>
+13:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/morris/morris.js"></script>
+14:     </head>
+
+
+An error occurred at line: 12 in the jsp file: /AnnouncingClock.jsp
+Syntax error on token "=", @ expected
+9:         <script type="text/javascript" src="../webapp/static/js/morris/morris.js"></script>        
+10:         <link rel="stylesheet" href="<% =owfContextPath %>/static/js/morris/morris.css">
+11:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/jquery-1.8.2.min.js"></script>
+12:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/raphael-2.1.0.min.js"></script>
+13:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/morris/morris.js"></script>
+14:     </head>
+15: <body>
+
+
+An error occurred at line: 12 in the jsp file: /AnnouncingClock.jsp
+Syntax error on token(s), misplaced construct(s)
+9:         <script type="text/javascript" src="../webapp/static/js/morris/morris.js"></script>        
+10:         <link rel="stylesheet" href="<% =owfContextPath %>/static/js/morris/morris.css">
+11:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/jquery-1.8.2.min.js"></script>
+12:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/raphael-2.1.0.min.js"></script>
+13:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/morris/morris.js"></script>
+14:     </head>
+15: <body>
+
+
+An error occurred at line: 13 in the jsp file: /AnnouncingClock.jsp
+Syntax error on token "=", @ expected
+10:         <link rel="stylesheet" href="<% =owfContextPath %>/static/js/morris/morris.css">
+11:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/jquery-1.8.2.min.js"></script>
+12:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/raphael-2.1.0.min.js"></script>
+13:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/morris/morris.js"></script>
+14:     </head>
+15: <body>
+16: <div>Working</div>
+
+
+An error occurred at line: 13 in the jsp file: /AnnouncingClock.jsp
+Syntax error on token(s), misplaced construct(s)
+10:         <link rel="stylesheet" href="<% =owfContextPath %>/static/js/morris/morris.css">
+11:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/jquery-1.8.2.min.js"></script>
+12:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/raphael-2.1.0.min.js"></script>
+13:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/morris/morris.js"></script>
+14:     </head>
+15: <body>
+16: <div>Working</div>
+
+
+Stacktrace:] with root cause
+org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: 10 in the jsp file: /AnnouncingClock.jsp
+Syntax error on token "=", @ expected
+7:         <script type="text/javascript" src="../webapp/static/js/jquery-1.8.2.min.js"></script>
+8:         <script type="text/javascript" src="../webapp/static/js/raphael-2.1.0.min.js"></script>
+9:         <script type="text/javascript" src="../webapp/static/js/morris/morris.js"></script>        
+10:         <link rel="stylesheet" href="<% =owfContextPath %>/static/js/morris/morris.css">
+11:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/jquery-1.8.2.min.js"></script>
+12:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/raphael-2.1.0.min.js"></script>
+13:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/morris/morris.js"></script>
+
+
+An error occurred at line: 10 in the jsp file: /AnnouncingClock.jsp
+Syntax error on token(s), misplaced construct(s)
+7:         <script type="text/javascript" src="../webapp/static/js/jquery-1.8.2.min.js"></script>
+8:         <script type="text/javascript" src="../webapp/static/js/raphael-2.1.0.min.js"></script>
+9:         <script type="text/javascript" src="../webapp/static/js/morris/morris.js"></script>        
+10:         <link rel="stylesheet" href="<% =owfContextPath %>/static/js/morris/morris.css">
+11:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/jquery-1.8.2.min.js"></script>
+12:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/raphael-2.1.0.min.js"></script>
+13:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/morris/morris.js"></script>
+
+
+An error occurred at line: 11 in the jsp file: /AnnouncingClock.jsp
+Syntax error on token "=", @ expected
+8:         <script type="text/javascript" src="../webapp/static/js/raphael-2.1.0.min.js"></script>
+9:         <script type="text/javascript" src="../webapp/static/js/morris/morris.js"></script>        
+10:         <link rel="stylesheet" href="<% =owfContextPath %>/static/js/morris/morris.css">
+11:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/jquery-1.8.2.min.js"></script>
+12:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/raphael-2.1.0.min.js"></script>
+13:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/morris/morris.js"></script>
+14:     </head>
+
+
+An error occurred at line: 11 in the jsp file: /AnnouncingClock.jsp
+Syntax error on token(s), misplaced construct(s)
+8:         <script type="text/javascript" src="../webapp/static/js/raphael-2.1.0.min.js"></script>
+9:         <script type="text/javascript" src="../webapp/static/js/morris/morris.js"></script>        
+10:         <link rel="stylesheet" href="<% =owfContextPath %>/static/js/morris/morris.css">
+11:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/jquery-1.8.2.min.js"></script>
+12:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/raphael-2.1.0.min.js"></script>
+13:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/morris/morris.js"></script>
+14:     </head>
+
+
+An error occurred at line: 12 in the jsp file: /AnnouncingClock.jsp
+Syntax error on token "=", @ expected
+9:         <script type="text/javascript" src="../webapp/static/js/morris/morris.js"></script>        
+10:         <link rel="stylesheet" href="<% =owfContextPath %>/static/js/morris/morris.css">
+11:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/jquery-1.8.2.min.js"></script>
+12:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/raphael-2.1.0.min.js"></script>
+13:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/morris/morris.js"></script>
+14:     </head>
+15: <body>
+
+
+An error occurred at line: 12 in the jsp file: /AnnouncingClock.jsp
+Syntax error on token(s), misplaced construct(s)
+9:         <script type="text/javascript" src="../webapp/static/js/morris/morris.js"></script>        
+10:         <link rel="stylesheet" href="<% =owfContextPath %>/static/js/morris/morris.css">
+11:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/jquery-1.8.2.min.js"></script>
+12:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/raphael-2.1.0.min.js"></script>
+13:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/morris/morris.js"></script>
+14:     </head>
+15: <body>
+
+
+An error occurred at line: 13 in the jsp file: /AnnouncingClock.jsp
+Syntax error on token "=", @ expected
+10:         <link rel="stylesheet" href="<% =owfContextPath %>/static/js/morris/morris.css">
+11:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/jquery-1.8.2.min.js"></script>
+12:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/raphael-2.1.0.min.js"></script>
+13:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/morris/morris.js"></script>
+14:     </head>
+15: <body>
+16: <div>Working</div>
+
+
+An error occurred at line: 13 in the jsp file: /AnnouncingClock.jsp
+Syntax error on token(s), misplaced construct(s)
+10:         <link rel="stylesheet" href="<% =owfContextPath %>/static/js/morris/morris.css">
+11:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/jquery-1.8.2.min.js"></script>
+12:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/raphael-2.1.0.min.js"></script>
+13:         <script type="text/javascript" src="<% =owfContextPath %>/static/js/morris/morris.js"></script>
+14:     </head>
+15: <body>
+16: <div>Working</div>
+
+
+Stacktrace:
+	at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+	at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:331)
+	at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:457)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:378)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:353)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:340)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:644)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:358)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:389)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:333)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:304)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:224)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:185)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:151)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:100)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:405)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:269)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:515)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:302)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
+	at java.lang.Thread.run(Thread.java:695)
+2013-12-19 16:48:01,742 [http-bio-8443-exec-51] ERROR org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/announcing-clock].[jsp]- Servlet.service() for servlet [jsp] in context with path [/announcing-clock] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: 10 in the jsp file: /AnnouncingClock.jsp
+Syntax error on token(s), misplaced construct(s)
+7:         <script type="text/javascript" src="../webapp/static/js/jquery-1.8.2.min.js"></script>
+8:         <script type="text/javascript" src="../webapp/static/js/raphael-2.1.0.min.js"></script>
+9:         <script type="text/javascript" src="../webapp/static/js/morris/morris.js"></script>        
+10:         <link rel="stylesheet" href="<% @owfContextPath %>/static/js/morris/morris.css">
+11:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/jquery-1.8.2.min.js"></script>
+12:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/raphael-2.1.0.min.js"></script>
+13:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/morris/morris.js"></script>
+
+
+An error occurred at line: 10 in the jsp file: /AnnouncingClock.jsp
+The method write(String) is undefined for the type AnnouncingClock_jsp
+7:         <script type="text/javascript" src="../webapp/static/js/jquery-1.8.2.min.js"></script>
+8:         <script type="text/javascript" src="../webapp/static/js/raphael-2.1.0.min.js"></script>
+9:         <script type="text/javascript" src="../webapp/static/js/morris/morris.js"></script>        
+10:         <link rel="stylesheet" href="<% @owfContextPath %>/static/js/morris/morris.css">
+11:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/jquery-1.8.2.min.js"></script>
+12:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/raphael-2.1.0.min.js"></script>
+13:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/morris/morris.js"></script>
+
+
+An error occurred at line: 11 in the jsp file: /AnnouncingClock.jsp
+Syntax error on token(s), misplaced construct(s)
+8:         <script type="text/javascript" src="../webapp/static/js/raphael-2.1.0.min.js"></script>
+9:         <script type="text/javascript" src="../webapp/static/js/morris/morris.js"></script>        
+10:         <link rel="stylesheet" href="<% @owfContextPath %>/static/js/morris/morris.css">
+11:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/jquery-1.8.2.min.js"></script>
+12:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/raphael-2.1.0.min.js"></script>
+13:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/morris/morris.js"></script>
+14:     </head>
+
+
+An error occurred at line: 11 in the jsp file: /AnnouncingClock.jsp
+The method write(String) is undefined for the type AnnouncingClock_jsp
+8:         <script type="text/javascript" src="../webapp/static/js/raphael-2.1.0.min.js"></script>
+9:         <script type="text/javascript" src="../webapp/static/js/morris/morris.js"></script>        
+10:         <link rel="stylesheet" href="<% @owfContextPath %>/static/js/morris/morris.css">
+11:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/jquery-1.8.2.min.js"></script>
+12:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/raphael-2.1.0.min.js"></script>
+13:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/morris/morris.js"></script>
+14:     </head>
+
+
+An error occurred at line: 12 in the jsp file: /AnnouncingClock.jsp
+Syntax error on token(s), misplaced construct(s)
+9:         <script type="text/javascript" src="../webapp/static/js/morris/morris.js"></script>        
+10:         <link rel="stylesheet" href="<% @owfContextPath %>/static/js/morris/morris.css">
+11:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/jquery-1.8.2.min.js"></script>
+12:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/raphael-2.1.0.min.js"></script>
+13:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/morris/morris.js"></script>
+14:     </head>
+15: <body>
+
+
+An error occurred at line: 12 in the jsp file: /AnnouncingClock.jsp
+The method write(String) is undefined for the type AnnouncingClock_jsp
+9:         <script type="text/javascript" src="../webapp/static/js/morris/morris.js"></script>        
+10:         <link rel="stylesheet" href="<% @owfContextPath %>/static/js/morris/morris.css">
+11:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/jquery-1.8.2.min.js"></script>
+12:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/raphael-2.1.0.min.js"></script>
+13:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/morris/morris.js"></script>
+14:     </head>
+15: <body>
+
+
+An error occurred at line: 13 in the jsp file: /AnnouncingClock.jsp
+Syntax error on token(s), misplaced construct(s)
+10:         <link rel="stylesheet" href="<% @owfContextPath %>/static/js/morris/morris.css">
+11:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/jquery-1.8.2.min.js"></script>
+12:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/raphael-2.1.0.min.js"></script>
+13:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/morris/morris.js"></script>
+14:     </head>
+15: <body>
+16: <div>Working</div>
+
+
+An error occurred at line: 13 in the jsp file: /AnnouncingClock.jsp
+The method write(String) is undefined for the type AnnouncingClock_jsp
+10:         <link rel="stylesheet" href="<% @owfContextPath %>/static/js/morris/morris.css">
+11:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/jquery-1.8.2.min.js"></script>
+12:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/raphael-2.1.0.min.js"></script>
+13:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/morris/morris.js"></script>
+14:     </head>
+15: <body>
+16: <div>Working</div>
+
+
+Stacktrace:] with root cause
+org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: 10 in the jsp file: /AnnouncingClock.jsp
+Syntax error on token(s), misplaced construct(s)
+7:         <script type="text/javascript" src="../webapp/static/js/jquery-1.8.2.min.js"></script>
+8:         <script type="text/javascript" src="../webapp/static/js/raphael-2.1.0.min.js"></script>
+9:         <script type="text/javascript" src="../webapp/static/js/morris/morris.js"></script>        
+10:         <link rel="stylesheet" href="<% @owfContextPath %>/static/js/morris/morris.css">
+11:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/jquery-1.8.2.min.js"></script>
+12:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/raphael-2.1.0.min.js"></script>
+13:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/morris/morris.js"></script>
+
+
+An error occurred at line: 10 in the jsp file: /AnnouncingClock.jsp
+The method write(String) is undefined for the type AnnouncingClock_jsp
+7:         <script type="text/javascript" src="../webapp/static/js/jquery-1.8.2.min.js"></script>
+8:         <script type="text/javascript" src="../webapp/static/js/raphael-2.1.0.min.js"></script>
+9:         <script type="text/javascript" src="../webapp/static/js/morris/morris.js"></script>        
+10:         <link rel="stylesheet" href="<% @owfContextPath %>/static/js/morris/morris.css">
+11:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/jquery-1.8.2.min.js"></script>
+12:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/raphael-2.1.0.min.js"></script>
+13:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/morris/morris.js"></script>
+
+
+An error occurred at line: 11 in the jsp file: /AnnouncingClock.jsp
+Syntax error on token(s), misplaced construct(s)
+8:         <script type="text/javascript" src="../webapp/static/js/raphael-2.1.0.min.js"></script>
+9:         <script type="text/javascript" src="../webapp/static/js/morris/morris.js"></script>        
+10:         <link rel="stylesheet" href="<% @owfContextPath %>/static/js/morris/morris.css">
+11:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/jquery-1.8.2.min.js"></script>
+12:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/raphael-2.1.0.min.js"></script>
+13:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/morris/morris.js"></script>
+14:     </head>
+
+
+An error occurred at line: 11 in the jsp file: /AnnouncingClock.jsp
+The method write(String) is undefined for the type AnnouncingClock_jsp
+8:         <script type="text/javascript" src="../webapp/static/js/raphael-2.1.0.min.js"></script>
+9:         <script type="text/javascript" src="../webapp/static/js/morris/morris.js"></script>        
+10:         <link rel="stylesheet" href="<% @owfContextPath %>/static/js/morris/morris.css">
+11:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/jquery-1.8.2.min.js"></script>
+12:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/raphael-2.1.0.min.js"></script>
+13:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/morris/morris.js"></script>
+14:     </head>
+
+
+An error occurred at line: 12 in the jsp file: /AnnouncingClock.jsp
+Syntax error on token(s), misplaced construct(s)
+9:         <script type="text/javascript" src="../webapp/static/js/morris/morris.js"></script>        
+10:         <link rel="stylesheet" href="<% @owfContextPath %>/static/js/morris/morris.css">
+11:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/jquery-1.8.2.min.js"></script>
+12:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/raphael-2.1.0.min.js"></script>
+13:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/morris/morris.js"></script>
+14:     </head>
+15: <body>
+
+
+An error occurred at line: 12 in the jsp file: /AnnouncingClock.jsp
+The method write(String) is undefined for the type AnnouncingClock_jsp
+9:         <script type="text/javascript" src="../webapp/static/js/morris/morris.js"></script>        
+10:         <link rel="stylesheet" href="<% @owfContextPath %>/static/js/morris/morris.css">
+11:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/jquery-1.8.2.min.js"></script>
+12:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/raphael-2.1.0.min.js"></script>
+13:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/morris/morris.js"></script>
+14:     </head>
+15: <body>
+
+
+An error occurred at line: 13 in the jsp file: /AnnouncingClock.jsp
+Syntax error on token(s), misplaced construct(s)
+10:         <link rel="stylesheet" href="<% @owfContextPath %>/static/js/morris/morris.css">
+11:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/jquery-1.8.2.min.js"></script>
+12:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/raphael-2.1.0.min.js"></script>
+13:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/morris/morris.js"></script>
+14:     </head>
+15: <body>
+16: <div>Working</div>
+
+
+An error occurred at line: 13 in the jsp file: /AnnouncingClock.jsp
+The method write(String) is undefined for the type AnnouncingClock_jsp
+10:         <link rel="stylesheet" href="<% @owfContextPath %>/static/js/morris/morris.css">
+11:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/jquery-1.8.2.min.js"></script>
+12:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/raphael-2.1.0.min.js"></script>
+13:         <script type="text/javascript" src="<% @owfContextPath %>/static/js/morris/morris.js"></script>
+14:     </head>
+15: <body>
+16: <div>Working</div>
+
+
+Stacktrace:
+	at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:102)
+	at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:331)
+	at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:457)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:378)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:353)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:340)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:644)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:358)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:389)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:333)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:304)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:224)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:185)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:151)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:100)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:405)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:269)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:515)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:300)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
+	at java.lang.Thread.run(Thread.java:695)
+2013-12-19 17:35:29,954 [stop children - Catalina:j2eeType=WebModule,name=//localhost/cas,J2EEApplication=none,J2EEServer=none] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/cas]- Closing Spring root WebApplicationContext
+2013-12-19 17:35:29,956 [stop children - Catalina:j2eeType=WebModule,name=//localhost/cas,J2EEApplication=none,J2EEServer=none] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/cas]- Shutting down log4j
+2013-12-19 17:35:29,991 [stop children - Catalina:j2eeType=WebModule,name=//localhost/owf,J2EEApplication=none,J2EEServer=none] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/owf]- Destroying Spring FrameworkServlet 'grails'
+2013-12-19 17:35:30,042 [stop children - Catalina:j2eeType=WebModule,name=//localhost/owf,J2EEApplication=none,J2EEServer=none] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/owf]- Destroying Spring FrameworkServlet 'gsp'
+2013-12-19 17:35:30,116 [stop children - Catalina:j2eeType=WebModule,name=//localhost/owf,J2EEApplication=none,J2EEServer=none] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/owf]- Closing Spring root WebApplicationContext
+2013-12-19 17:35:33,499 [Thread-5] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/cas]- Initializing log4j from [classpath:log4j.xml]
+2013-12-19 17:35:33,527 [Thread-5] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/cas]- Initializing Spring root WebApplicationContext
+2013-12-19 17:35:34,370 [Thread-5] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/cas]- Initializing Spring FrameworkServlet 'cas'
+2013-12-19 17:35:35,758 [Thread-7] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/owf]- Initializing Spring root WebApplicationContext
+2013-12-19 17:35:43,149 [Thread-7] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/owf]- Initializing Spring FrameworkServlet 'grails'
+2013-12-20 11:28:27,295 [http-bio-8443-exec-28] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/owf]- Initializing Spring FrameworkServlet 'gsp'
+2013-12-20 11:28:27,297 [http-bio-8443-exec-28] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/owf]- GSP servlet initialized
+2013-12-20 15:22:03,336 [stop children - Catalina:j2eeType=WebModule,name=//localhost/cas,J2EEApplication=none,J2EEServer=none] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/cas]- Closing Spring root WebApplicationContext
+2013-12-20 15:22:03,339 [stop children - Catalina:j2eeType=WebModule,name=//localhost/cas,J2EEApplication=none,J2EEServer=none] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/cas]- Shutting down log4j
+2013-12-20 15:22:03,407 [stop children - Catalina:j2eeType=WebModule,name=//localhost/owf,J2EEApplication=none,J2EEServer=none] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/owf]- Destroying Spring FrameworkServlet 'grails'
+2013-12-20 15:22:03,501 [stop children - Catalina:j2eeType=WebModule,name=//localhost/owf,J2EEApplication=none,J2EEServer=none] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/owf]- Destroying Spring FrameworkServlet 'gsp'
+2013-12-20 15:22:03,575 [stop children - Catalina:j2eeType=WebModule,name=//localhost/owf,J2EEApplication=none,J2EEServer=none] INFO  org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/owf]- Closing Spring root WebApplicationContext

@@ -1,0 +1,59 @@
+2013-12-20 10:15:54,132 EST [scheduler_Worker-4] INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner]: Starting cleaning of expired tickets from ticket registry at [Fri Dec 20 10:15:54 EST 2013]
+2013-12-20 10:15:54,135 EST [scheduler_Worker-4] INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner]: 1 found to be removed.  Removing now.
+2013-12-20 10:15:54,135 EST [scheduler_Worker-4] INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner]: Finished cleaning of expired tickets from ticket registry at [Fri Dec 20 10:15:54 EST 2013]
+2013-12-20 10:51:50,035 EST [http-bio-8443-exec-9] INFO [org.jasig.cas.authentication.AuthenticationManagerImpl]: AuthenticationHandler: ozone3.cas.adaptors.UserPropertiesFileAuthenticationHandler successfully authenticated the user which provided the following credentials: [username: testAdmin1]
+2013-12-20 10:51:50,036 EST [http-bio-8443-exec-9] INFO [org.jasig.cas.CentralAuthenticationServiceImpl]: Granted service ticket [ST-2-oJMroNlAbi1EbCZwa9fy-cas] for service [https://localhost:8443/owf/j_spring_cas_security_check] for user [testAdmin1]
+2013-12-20 10:51:50,173 EST [http-bio-8443-exec-12] INFO [org.jasig.cas.authentication.AuthenticationManagerImpl]: AuthenticationHandler: org.jasig.cas.authentication.handler.support.HttpBasedServiceCredentialsAuthenticationHandler failed to authenticate the user which provided the following credentials: [callbackUrl: https://localhost:8443/owf/secure/receptor]
+2013-12-20 10:51:50,173 EST [http-bio-8443-exec-12] ERROR[org.jasig.cas.web.ServiceValidateController]: TicketException generating ticket for: [callbackUrl: https://localhost:8443/owf/secure/receptor]
+org.jasig.cas.ticket.TicketCreationException: error.authentication.credentials.bad
+	at org.jasig.cas.CentralAuthenticationServiceImpl.delegateTicketGrantingTicket(CentralAuthenticationServiceImpl.java:291)
+	at org.jasig.cas.web.ServiceValidateController.handleRequestInternal(ServiceValidateController.java:126)
+	at org.springframework.web.servlet.mvc.AbstractController.handleRequest(AbstractController.java:153)
+	at org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter.handle(SimpleControllerHandlerAdapter.java:48)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:875)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:807)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:571)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:501)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:621)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	at org.jasig.cas.web.init.SafeDispatcherServlet.service(SafeDispatcherServlet.java:115)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:304)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.inspektr.common.web.ClientInfoThreadLocalFilter.doFilterInternal(ClientInfoThreadLocalFilter.java:48)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:76)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:224)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:185)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:151)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:100)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:405)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:269)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:515)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:300)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
+	at java.lang.Thread.run(Thread.java:695)
+Caused by: error.authentication.credentials.bad
+	at org.jasig.cas.authentication.handler.BadCredentialsAuthenticationException.<clinit>(BadCredentialsAuthenticationException.java:25)
+	at org.jasig.cas.authentication.AuthenticationManagerImpl.authenticate(AuthenticationManagerImpl.java:113)
+	at org.jasig.cas.CentralAuthenticationServiceImpl.delegateTicketGrantingTicket(CentralAuthenticationServiceImpl.java:262)
+	... 29 more
+2013-12-20 11:39:14,125 EST [scheduler_Worker-4] INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner]: Starting cleaning of expired tickets from ticket registry at [Fri Dec 20 11:39:14 EST 2013]
+2013-12-20 11:39:14,126 EST [scheduler_Worker-4] INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner]: 0 found to be removed.  Removing now.
+2013-12-20 11:39:14,126 EST [scheduler_Worker-4] INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner]: Finished cleaning of expired tickets from ticket registry at [Fri Dec 20 11:39:14 EST 2013]
+2013-12-20 13:02:34,128 EST [scheduler_Worker-7] INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner]: Starting cleaning of expired tickets from ticket registry at [Fri Dec 20 13:02:34 EST 2013]
+2013-12-20 13:02:34,128 EST [scheduler_Worker-7] INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner]: 1 found to be removed.  Removing now.
+2013-12-20 13:02:34,129 EST [scheduler_Worker-7] INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner]: Finished cleaning of expired tickets from ticket registry at [Fri Dec 20 13:02:34 EST 2013]
+2013-12-20 14:25:54,125 EST [scheduler_Worker-1] INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner]: Starting cleaning of expired tickets from ticket registry at [Fri Dec 20 14:25:54 EST 2013]
+2013-12-20 14:25:54,125 EST [scheduler_Worker-1] INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner]: 0 found to be removed.  Removing now.
+2013-12-20 14:25:54,125 EST [scheduler_Worker-1] INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner]: Finished cleaning of expired tickets from ticket registry at [Fri Dec 20 14:25:54 EST 2013]
+2013-12-20 15:22:03,337 EST [stop children - Catalina:j2eeType=WebModule,name=//localhost/cas,J2EEApplication=none,J2EEServer=none] INFO [org.springframework.web.context.support.XmlWebApplicationContext]: Closing org.springframework.web.context.support.XmlWebApplicationContext@3c992fa5: display name [Root WebApplicationContext]; startup date [Thu Dec 19 17:35:33 EST 2013]; root of context hierarchy
+2013-12-20 15:22:03,338 EST [stop children - Catalina:j2eeType=WebModule,name=//localhost/cas,J2EEApplication=none,J2EEServer=none] INFO [org.quartz.core.QuartzScheduler]: Scheduler scheduler_$_NON_CLUSTERED paused.
+2013-12-20 15:22:03,338 EST [stop children - Catalina:j2eeType=WebModule,name=//localhost/cas,J2EEApplication=none,J2EEServer=none] INFO [org.springframework.beans.factory.support.DefaultListableBeanFactory]: Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@40f12b72: defining beans [ticketRegistry,ticketRegistryCleaner,jobDetailTicketRegistryCleaner,triggerJobDetailTicketRegistryCleaner,scheduler,ticketGrantingTicketCookieGenerator,propertyPlaceholderConfigurer,ticketGrantingTicketUniqueIdGenerator,serviceTicketUniqueIdGenerator,proxy20TicketUniqueIdGenerator,samlServiceTicketUniqueIdGenerator,uniqueIdGeneratorsMap,warnCookieGenerator,serviceTicketExpirationPolicy,grantingTicketExpirationPolicy,messageSource,servicesManager,httpClient,persistentIdGenerator,centralAuthenticationService,proxy10Handler,proxy20Handler,advisorAutoProxyCreator,validationAnnotationBeanPostProcessor,_authenticationManager,_filterChainProxy,_httpSessionContextIntegrationFilter,_filterChainProxyPostProcessor,_filterChainList,_securityContextHolderAwareRequestFilter,_accessManager,_portMapper,_exceptionTranslationFilter,_filterSecurityInterceptor,_sessionFixationProtectionFilter,_logoutFilter,_entryPointInjectionBeanPostProcessor,_userServiceInjectionPostProcessor,serviceProperties,casProcessingFilter,casProcessingFilterEntryPoint,casAuthenticationProvider,casArgumentExtractor,samlArgumentExtractor,argumentExtractors,authenticationManager,userDetailsService,attributeRepository,serviceRegistryDao]; root of factory hierarchy
+2013-12-20 15:22:03,338 EST [stop children - Catalina:j2eeType=WebModule,name=//localhost/cas,J2EEApplication=none,J2EEServer=none] INFO [org.springframework.scheduling.quartz.SchedulerFactoryBean]: Shutting down Quartz Scheduler
+2013-12-20 15:22:03,338 EST [stop children - Catalina:j2eeType=WebModule,name=//localhost/cas,J2EEApplication=none,J2EEServer=none] INFO [org.quartz.core.QuartzScheduler]: Scheduler scheduler_$_NON_CLUSTERED shutting down.
+2013-12-20 15:22:03,338 EST [stop children - Catalina:j2eeType=WebModule,name=//localhost/cas,J2EEApplication=none,J2EEServer=none] INFO [org.quartz.core.QuartzScheduler]: Scheduler scheduler_$_NON_CLUSTERED paused.
+2013-12-20 15:22:03,338 EST [stop children - Catalina:j2eeType=WebModule,name=//localhost/cas,J2EEApplication=none,J2EEServer=none] INFO [org.quartz.core.QuartzScheduler]: Scheduler scheduler_$_NON_CLUSTERED shutdown complete.
